@@ -1,0 +1,8 @@
+COSC 2430 | extra_week_2_9  | 6/17/18
+
+The purpose of this program is to determine if a word inputted is a palindrome (a word which read backwards is the same word) (racecar)
+
+Functionality includes:
+1. Utilizing a Stack
+2. Utilizing a Queue
+3. Returning the time until completion

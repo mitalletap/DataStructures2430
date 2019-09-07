@@ -1,0 +1,9 @@
+COSC 2430 | extra_week_1_5 | 6/11/18
+
+The purpose of this program is to create a class for a Point using a Template.
+
+Limited Functionality includes:
+1. Returning the value of the X and Y coordinates 
+2. Printing the value of the ordered pair
+3. Setting default values for X and Y
+

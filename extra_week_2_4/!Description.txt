@@ -1,0 +1,6 @@
+COSC 2430 | extra_week_2_4  | 6/11/18
+
+The purpose of this program is to create a Factorial function. 
+
+Functionality includes:
+1. Printing the factorial of an inputed value

@@ -1,0 +1,245 @@
+HI
+--------------------------------------------
+-(-(-1))+3
+First in line!: -
+charCount: 1
+Open: (
+charCount: 2
+Pushed: -
+charCount: 3
+Open: (
+charCount: 4
+Pushed: -
+charCount: 5
+Digit: 1
+charCount: 6
+Closed: )
+---------------------------
+1
+0
+0
+0
+-------
+-
+(
+-
+(
+-
+---------------------------
+val1: 1
+val2: 0
+val1: 1 val2: 0 op: -
+evaluated!
+NUM: -1
+charCount: 7
+Closed: )
+---------------------------
+-1
+0
+0
+-------
+-
+(
+-
+---------------------------
+val1: -1
+val2: 0
+val1: -1 val2: 0 op: -
+evaluated!
+NUM: 1
+charCount: 8
+op.top: -
+Priority 1: +
+val1: 1
+val2: 0
+val1: 1 val2: 0 op: -
+New Top: -1
+charCount: 9
+Digit: 3
+charCount: 10
+val1: 3
+val2: -1
+val1: 3 val2: -1 op: +
+Stacks:
+2
+--------------------------------------------
+--------------------------------------------
+(-1*(3+5))
+Open: (
+charCount: 1
+Pushed: -
+charCount: 2
+Digit: 1
+charCount: 3
+Priority 2: *
+charCount: 4
+Open: (
+charCount: 5
+Digit: 3
+charCount: 6
+Pushed: +
+charCount: 7
+Digit: 5
+charCount: 8
+Closed: )
+---------------------------
+5
+3
+1
+0
+-------
++
+(
+*
+-
+(
+---------------------------
+val1: 5
+val2: 3
+val1: 5 val2: 3 op: +
+evaluated!
+NUM: 8
+charCount: 9
+Closed: )
+---------------------------
+8
+1
+0
+-------
+*
+-
+(
+---------------------------
+val1: 8
+val2: 1
+val1: 8 val2: 1 op: *
+evaluated!
+NUM: 8
+val1: 8
+val2: 0
+val1: 8 val2: 0 op: -
+evaluated!
+NUM: -8
+charCount: 10
+Stacks:
+-8
+--------------------------------------------
+--------------------------------------------
+(3+(5*2)-(6/2))+1
+Open: (
+charCount: 1
+Digit: 3
+charCount: 2
+Pushed: +
+charCount: 3
+Open: (
+charCount: 4
+Digit: 5
+charCount: 5
+Pushed: *
+charCount: 6
+Digit: 2
+charCount: 7
+Closed: )
+---------------------------
+2
+5
+3
+-------
+*
+(
++
+(
+---------------------------
+val1: 2
+val2: 5
+val1: 2 val2: 5 op: *
+evaluated!
+NUM: 10
+charCount: 8
+op.top: +
+Priority 1: -
+val1: 10
+val2: 3
+val1: 10 val2: 3 op: +
+New Top: 13
+charCount: 9
+Open: (
+charCount: 10
+Digit: 6
+charCount: 11
+Pushed: /
+charCount: 12
+Digit: 2
+charCount: 13
+Closed: )
+---------------------------
+2
+6
+13
+-------
+/
+(
+-
+(
+---------------------------
+val1: 2
+val2: 6
+val1: 2 val2: 6 op: /
+evaluated!
+NUM: 3
+charCount: 14
+Closed: )
+---------------------------
+3
+13
+-------
+-
+(
+---------------------------
+val1: 3
+val2: 13
+val1: 3 val2: 13 op: -
+evaluated!
+NUM: 10
+charCount: 15
+First in line!: +
+charCount: 16
+Digit: 1
+charCount: 17
+val1: 1
+val2: 10
+val1: 1 val2: 10 op: +
+Stacks:
+11
+--------------------------------------------
+--------------------------------------------
+100/99+100/39
+Digit: 100
+charCount: 1
+First in line!: /
+charCount: 2
+Digit: 99
+charCount: 3
+op.top: /
+Priority 1: +
+val1: 99
+val2: 100
+val1: 99 val2: 100 op: /
+New Top: 1
+charCount: 4
+Digit: 100
+charCount: 5
+Priority 2: /
+charCount: 6
+Digit: 39
+charCount: 7
+val1: 39
+val2: 100
+val1: 39 val2: 100 op: /
+val1: 2
+val2: 1
+val1: 2 val2: 1 op: +
+Stacks:
+3
+--------------------------------------------

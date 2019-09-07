@@ -1,0 +1,17 @@
+COSC 2430 | hw3 | 7/11/18
+
+The purpose of this program is to dynamically create a binary tree.
+
+Functionality includes:
+1. Initializing the Tree
+2. Move down the left of the left tree branch
+3. Move down the right of the right tree branch
+4. Move down the left of the right tree branch
+5. Move down the right of the left tree branch
+6. Balance an unbalanced Tree
+7. Insert a value into the Tree
+8. Display the Tree
+9. Return the values in order
+10. Return the values in preorder
+11. Return the values in postorder 
+12. Print the level of a node

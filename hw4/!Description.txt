@@ -1,0 +1,8 @@
+COSC 2430 | hw4 | 6/4/18
+
+The purpose of this program is to create a Graph which can determine the shortest path to a value.
+
+Functionality includes:
+1. Initializing the Graph
+2. Adding edges to the Graph
+3. Returning the shortest path

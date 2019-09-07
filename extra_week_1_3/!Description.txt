@@ -1,0 +1,14 @@
+COSC 2430 | extra_week_1_3 | 6/11/18
+
+The purpose of this program is to create a class for the equation of a Line.
+
+Functionality includes:
+1. Setting the values for the equation
+2. Returning the values for each variable
+3. Changing the values for each variable
+4. Return if the line is Horizontal or Vertical
+5. Return if the line is Parallel or Perpendicular
+6. Finding the slope of the line
+7. Printing the data
+8. Returning if the lines are the same
+

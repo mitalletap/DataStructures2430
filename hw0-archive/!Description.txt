@@ -1,0 +1,9 @@
+COSC 2430 | hw0 | 6/4/18
+
+The purpose of this program is to read 2 input files which both contained a single matrix of random size. Then, compute the matrix into an output file.
+
+Functionality includes:
+1.  Reading both input files
+2. Reading the size of the Matrix from each file
+3. Comparing the two
+4. Adding the two

@@ -1,0 +1,9 @@
+COSC 2430 | extra_week_2_2  | 6/14/18
+
+The purpose of this program is to create a Doubly Linked List.
+
+Functionality includes:
+1. Dynamically creating DLL
+2. Inserting value at the end of the list
+3. Reading the list from the head to the tail
+4. Reading the list from the tail to the head

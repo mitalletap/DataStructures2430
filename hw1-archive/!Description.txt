@@ -1,0 +1,16 @@
+COSC 2430 | hw1 | 7/11/18
+
+The purpose of this program read an input file and isolate key pairs for students, their id numbers, first names, last names, DoB, and GPA, then group them into "records". Once grouped correctly, each record will be added to a single node in a linked list.
+
+Functionality includes:
+1. Parsing values into Key Pairs by removing delimiters
+2. Sort records
+3. Initializing Nodes
+4. Adding values to the Linked List
+5. Adding values to the front of the Linked List
+6. Removing values
+7. Removing values from the front of the Linked List
+8. Show deleted lists
+9. Show the full list
+10. Printing with formatting
+11. Get line number of a record

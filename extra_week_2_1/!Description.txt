@@ -1,0 +1,11 @@
+COSC 2430 | extra_week_2_1  | 6/14/18
+
+The purpose of this program is to create a Circularly Linked List which will iterate through a word and delete every other word until the full word has been deleted. 
+
+Functionality includes:
+1. Usage of Pointers and Stacks
+2. Pushing a value to a node
+3. Creating a node
+4. Counting the total number of nodes
+5. Counding the iteration it takes to delete all characters
+

@@ -1,0 +1,6 @@
+COSC 2430 | extra_week_1_1 | 6/4/18
+
+The purpose of this program is to demonstrate the use of pointers to create nodes from an Array.
+
+No Functionality, Just Demonstration.
+

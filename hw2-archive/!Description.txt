@@ -1,0 +1,11 @@
+COSC 2430 | hw2 | 6/25/18
+
+The purpose of this program is to read equations from an input file and determine the output using Infix Notation .
+
+Functionality Includes:
+
+1. Determining if the equation has valid characters
+2. Determining if the equation has valid formatting
+3. Determining if the equation has equal parenthetical
+4. Computing the equation
+5. Printing the equation

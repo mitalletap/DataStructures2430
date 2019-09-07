@@ -1,0 +1,12 @@
+COSC 2430 | extra_week_2_5  | 6/13/18
+
+The purpose of this program is to create a Linked List with complete functionality.
+
+Functionality includes:
+1. Initalizing the linked list
+2. Pushing a value to the list
+3. Popping a value from the list
+4. Returning if the list is empty
+5. Printing the list
+6. Removing all nodes from the list
+7. Searching the list for a value and printing the location of the node 

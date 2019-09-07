@@ -1,0 +1,11 @@
+Grade report case by case:
+test case  fail
+        1     2
+        2     3
+        3     3
+        4     5
+        5     4
+        6     4
+        7     6
+        8     5
+        9     5

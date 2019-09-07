@@ -1,0 +1,217 @@
+This is a photo editing program.
+It has basic implementation, however, I am in the process of making this program run with FULL implementation.
+
+
+The program reads in an XML file from an image, parses the data into a linked list, registers user input for changes, updates the data, and outputs the file.
+
+
+As of right now, the selection of the images in hardcoded into the program as I could not implement directory selection for the files.
+
+Included in the project files are 2 images along with their XML files. There is also a backup folder in the event something happens to the originals.
+
+Once you run the program, you will see the default values for each attributes. 
+You can view, edit, or reset (to 0) any of the attributes you choose, and then save and exit the program.
+
+Once done, if you compare the values between the two XML files, you will notice that the values have been updated, and if re-uploaded to Lightroom, the updates will be applied to the images. 
+
+
+If you open both the old and new XML and compare the following lines, you will notice that the values have been changed.
+
+Line 62: Temperature
+Line 63: Tint
+Line 64: Saturation
+Line 68: VignetteAmount
+Line 76: Vibrance
+Line 131: Exposure2012
+Line 132: Contrast2012
+
+
+
+Below is a transcript of an edit I did with file name: DSC02229.xmp
+
+
+
+
+Enter the file name (EXCLUDNG extension): 
+DSC02229
+File Opened Successfully!
+List Created!
+Select an option: 
+1. View Current List
+2. Edit List Value
+3. Reset List Value
+4. Save and Exit
+1
+// Selected to “View Current List”
+===================
+Contrast2012
+0
+
+Exposure2012
+0
+
+Vibrance
+29
+
+VignetteAmount
+0
+
+Sharpness
+25
+
+Saturation
+0
+
+Tint
+0
+
+===================
+Select an option: 
+1. View Current List
+2. Edit List Value
+3. Reset List Value
+4. Save and Exit
+2
+// Selected to Edit Attribute 1 with a value of 100
+Select an option: 
+1. Contrast
+2. Exposure
+3. Vibrance
+4. Vignette
+5. Sharpness
+6. Saturation
+7. Tint
+1
+Enter A New Value:
+100
+Value Updated!
+// Selected to Edit Attribute 2 with a value of 100
+Select an option: 
+1. View Current List
+2. Edit List Value
+3. Reset List Value
+4. Save and Exit
+2
+
+Select an option: 
+1. Contrast
+2. Exposure
+3. Vibrance
+4. Vignette
+5. Sharpness
+6. Saturation
+7. Tint
+2
+Enter A New Value:
+100
+Value Updated!
+// Selected to Edit Attribute 3 with a value of 100
+Select an option: 
+1. View Current List
+2. Edit List Value
+3. Reset List Value
+4. Save and Exit
+2
+
+Select an option: 
+1. Contrast
+2. Exposure
+3. Vibrance
+4. Vignette
+5. Sharpness
+6. Saturation
+7. Tint
+3
+Enter A New Value:
+100
+Value Updated!
+// Selected to Edit Attribute 4 with a value of 100
+Select an option: 
+1. View Current List
+2. Edit List Value
+3. Reset List Value
+4. Save and Exit
+2
+
+Select an option: 
+1. Contrast
+2. Exposure
+3. Vibrance
+4. Vignette
+5. Sharpness
+6. Saturation
+7. Tint
+4
+Enter A New Value:
+100
+Value Updated!
+// Selected to Edit Attribute 5 with a value of 100
+Select an option: 
+1. View Current List
+2. Edit List Value
+3. Reset List Value
+4. Save and Exit
+2
+
+Select an option: 
+1. Contrast
+2. Exposure
+3. Vibrance
+4. Vignette
+5. Sharpness
+6. Saturation
+7. Tint
+5
+Enter A New Value:
+100
+Value Updated!
+// Selected to Edit Attribute 6 with a value of 100
+Select an option: 
+1. View Current List
+2. Edit List Value
+3. Reset List Value
+4. Save and Exit
+2
+
+Select an option: 
+1. Contrast
+2. Exposure
+3. Vibrance
+4. Vignette
+5. Sharpness
+6. Saturation
+7. Tint
+6
+Enter A New Value:
+100
+Value Updated!
+// Selected to Edit Attribute 7 with a value of 100
+Select an option: 
+1. View Current List
+2. Edit List Value
+3. Reset List Value
+4. Save and Exit
+2
+
+Select an option: 
+1. Contrast
+2. Exposure
+3. Vibrance
+4. Vignette
+5. Sharpness
+6. Saturation
+7. Tint
+7
+Enter A New Value:
+100
+Value Updated!
+// Save and Exit
+Select an option: 
+1. View Current List
+2. Edit List Value
+3. Reset List Value
+4. Save and Exit
+4
+
+Saving...
+Saved! Goodbye!

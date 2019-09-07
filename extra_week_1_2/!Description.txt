@@ -1,0 +1,12 @@
+COSC 2430 | extra_week_1_2 | 6/5/18
+
+The purpose of this program is to create a class of dayType.
+
+Functionality includes:
+1. Setting the day
+2. Printing the day
+3. Getting the value of the current day
+4. Getting the value of the next day
+5. Getting the value of the previous day
+6. Adding Days
+

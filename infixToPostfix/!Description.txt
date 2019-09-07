@@ -1,0 +1,11 @@
+COSC 2430 | infixToPostfix | 6/15/18
+
+The purpose of this program is to convert infix notation to postfix notation. 
+
+Functionality Includes:
+1.  Determining if the equation has valid characters
+2. Determining if the equation has valid formatting
+3. Determining if the equation has equal parenthetical
+4. Computing the equation
+5. Printing the equation
+

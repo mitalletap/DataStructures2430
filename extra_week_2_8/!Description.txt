@@ -1,0 +1,8 @@
+COSC 2430 | extra_week_2_8  | 6/17/18
+
+The purpose of this program is to recieve an input and return all of the prime numbers less than the input
+
+Functionality includes:
+1. Requesting an input
+2. Returning a list of all prime value smaller than the input
+3. Utilization of Stacks

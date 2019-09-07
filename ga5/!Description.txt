@@ -1,0 +1,11 @@
+COSC 2430 | group_assignment_5  | 6/27/18
+
+The purpose of this program is to create a Graph.
+
+Functionality includes:
+1. Initalizing the Graph
+2. Adding edges to the Graph
+3. Returning the BFS
+4. Returning the DFS
+5. Printing the Adjacent List
+6. Printing the Graph 

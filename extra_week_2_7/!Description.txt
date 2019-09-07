@@ -1,0 +1,9 @@
+COSC 2430 | extra_week_2_7  | 6/30/18
+
+The purpose of this program is to determine if an arithmetic function is valid. 
+
+Functionality includes:
+1. Determining the type of operators inputted
+2. Determining if there are an even number of parantheticals
+3. Determining if the end of the equation ends with an operator or number
+4. Returing the validity of the equation

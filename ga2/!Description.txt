@@ -1,0 +1,16 @@
+COSC 2430 | group_assignment_2  | 6/16/18
+
+The purpose of this program is to create a fully implemeneted Linked List.
+
+Functionality includes:
+1. Initializing the LL
+2. Returing if the list is empty
+3. Add to the beginning of the list
+4. Add to the middle of the list with a given index
+5. Add to the end of the list
+6. Delete from the beginning of the list
+7. Delete from the middle of the list with a given index
+8. Delete from the end of the list
+9. Delete the entire list
+10. Print the list
+11. Search for a value in the list

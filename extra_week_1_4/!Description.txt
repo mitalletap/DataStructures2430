@@ -1,0 +1,8 @@
+COSC 2430 | extra_week_1_4 | 6/11/18
+
+The purpose of this program is to create a class for the Quadratic Function using overloaded operators.
+
+Limited Functionality includes:
+1. Solving for Equation
+2. Determining if multiple equations are equal
+

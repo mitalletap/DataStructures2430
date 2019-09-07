@@ -1,0 +1,11 @@
+COSC 2430 | extra_week_2_3  | 6/30/18
+
+The purpose of this program is to compare time complexity using Big O. 
+
+Functionality includes:
+1. Using Bubble Sort
+2. Using Insertion Sort
+3. Using Selection Sort
+4. Randomizing the Array
+5. Printing the Array
+6. Printing the time each sort took from the start

@@ -1,0 +1,19 @@
+COSC 2430 | group_assignment_4  | 6/24/18
+
+The purpose of this program is to create a Decision Tree.
+
+Functionality includes:
+1. Initalizing the Tree
+2. Move down the left of the left tree branch
+3. Move down the right of the right tree branch
+4. Move down the left of the right tree branch
+5. Move down the right of the left tree branch
+6. Balance an unbalanced Tree
+7. Print the index for a value
+8. Get the level of a value
+9. Display the Tree
+10. Return the values in order
+11. Return the values in preorder
+12. Return the values in postorder 
+13. Index the values correctly
+14. Check for same values

@@ -1,0 +1,9 @@
+COSC 2430 | extra_week_1_6 | 6/11/18
+
+The purpose of this program is to create a class for a Dynamic Array (using pointers)
+
+Functionality includes:
+1. Creating a Dynamic Array of size 10 by default
+2. Destroying the array after use
+3. Printing the Dynamic Array
+
